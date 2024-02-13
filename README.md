@@ -1,1 +1,2 @@
 # WhatIHaveLearned
+I created this repository with the purpose of storing my knowledge. I believed that everyone will forgot of what they have learned if they don't touch it frequently. The only parts that we remembered  are interesting bullet points, sometimes nothing. However if you have a space to read back what you have learned, that memory will be activated against. I hope I can frequently contribute to this repo as long as I still can learn new things.
