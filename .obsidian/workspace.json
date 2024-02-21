@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformatic/Bioinformatics terms.md",
+                "file": "Computer science/DataEngineer/DataEngineerZoomCamp/Week 1 - Introduction & Prerequisites.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformatic/Bioinformatics terms.md",
+                "file": "Computer science/DataEngineer/DataEngineerZoomCamp/Week 1 - Introduction & Prerequisites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformatic/Bioinformatics terms.md",
+                "file": "Computer science/DataEngineer/DataEngineerZoomCamp/Week 1 - Introduction & Prerequisites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformatic/Bioinformatics terms.md"
+                "file": "Computer science/DataEngineer/DataEngineerZoomCamp/Week 1 - Introduction & Prerequisites.md"
               }
             }
           }
@@ -146,16 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee703a766c7463cf",
+  "active": "a92100ec2d4ca985",
   "lastOpenFiles": [
+    "Computer science/Bash/Untitled.md",
+    "Computer science/DataEngineer/DataEngineerZoomCamp/Week 1 - Introduction & Prerequisites.md",
+    "Computer science/Bash",
+    "Work/Interesting websites.md",
+    "Computer science/Python/Inheritance.md",
+    "Bioinformatic/Bioinformatics terms.md",
+    "Computer science/DataEngineer/DataEngineerZoomCamp",
     "Computer science/LeetCode",
     "README.md",
-    "Bioinformatic/Bioinformatics terms.md",
     "Computer science/DataEngineer",
     "Untitled.md",
     "Computer science/Java/Operators.md",
-    "Computer science/Python/Inheritance.md",
-    "Work/Git.md",
-    "Work/Interesting websites.md"
+    "Work/Git.md"
   ]
 }
