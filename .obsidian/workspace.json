@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer science/DataEngineer/DataEngineerZoomCamp/Week 1 - Introduction & Prerequisites.md",
+                "file": "Computer science/DataEngineer/DataEngineerZoomCamp/Week 2 - Workflow orchestration.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer science/DataEngineer/DataEngineerZoomCamp/Week 1 - Introduction & Prerequisites.md",
+                "file": "Computer science/DataEngineer/DataEngineerZoomCamp/Week 2 - Workflow orchestration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer science/DataEngineer/DataEngineerZoomCamp/Week 1 - Introduction & Prerequisites.md",
+                "file": "Computer science/DataEngineer/DataEngineerZoomCamp/Week 2 - Workflow orchestration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer science/DataEngineer/DataEngineerZoomCamp/Week 1 - Introduction & Prerequisites.md"
+                "file": "Computer science/DataEngineer/DataEngineerZoomCamp/Week 2 - Workflow orchestration.md"
               }
             }
           }
@@ -148,12 +148,14 @@
   },
   "active": "a92100ec2d4ca985",
   "lastOpenFiles": [
-    "Computer science/Bash/Untitled.md",
+    "Pasted image 20240222221004.png",
+    "Bioinformatic/Bioinformatics terms.md",
+    "Computer science/DataEngineer/DataEngineerZoomCamp/Week 2 - Workflow orchestration.md",
     "Computer science/DataEngineer/DataEngineerZoomCamp/Week 1 - Introduction & Prerequisites.md",
+    "Computer science/Bash/Untitled.md",
     "Computer science/Bash",
     "Work/Interesting websites.md",
     "Computer science/Python/Inheritance.md",
-    "Bioinformatic/Bioinformatics terms.md",
     "Computer science/DataEngineer/DataEngineerZoomCamp",
     "Computer science/LeetCode",
     "README.md",
