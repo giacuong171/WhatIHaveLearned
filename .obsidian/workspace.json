@@ -11,8 +11,12 @@
             "id": "0251d20e12d541bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Work/Internship.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3c6665a905edd742",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Work/Internship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Work/Internship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Work/Internship.md"
+              }
             }
           }
         ]
@@ -138,17 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0251d20e12d541bc",
+  "active": "ee703a766c7463cf",
   "lastOpenFiles": [
+    "Work/Interesting websites.md",
+    "Work/Internship.md",
+    "Work/Git.md",
+    "Bioinformatic/Bioinformatics terms.md",
     "Computer science/Python/Pytest.md",
     "Computer science/DataEngineer/DataEngineerZoomCamp/Week 2 - Workflow orchestration.md",
     "Computer science/DataEngineer/screenshot/Pasted image 20240222221004.png",
     "Computer science/DataEngineer/screenshot",
     "Computer science/Python/Inheritance.md",
     "Computer science/Java/Operators.md",
-    "Work/Git.md",
-    "Work/Interesting websites.md",
-    "Bioinformatic/Bioinformatics terms.md",
     "Computer science/DataEngineer/DataEngineerZoomCamp/Week 1 - Introduction & Prerequisites.md",
     "Computer science/Bash/Untitled.md",
     "Computer science/Bash",
