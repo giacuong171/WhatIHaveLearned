@@ -1,0 +1,4 @@
+- Tensorboard ?
+- DataLoader use for loading many pictures at once
+- progress_bar = tqdm(train_dataloader, colour = "yellow")
+- 
